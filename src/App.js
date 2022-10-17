@@ -245,9 +245,9 @@ function App() {
             <div className="nft-image">
               <div className="title-container">
                 <div className="title">
-                  <h5></h5>
+                  <h5>MoonShibs NFT</h5>
                   <p>
-                     <b> </b>
+                   Minting Price: <b>0.25 ETHW </b>
                   </p>
                 </div>
               </div>
