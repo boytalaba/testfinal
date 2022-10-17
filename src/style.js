@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import bull from "./assets/She-Soul-Tokens.GIF";
+import bull from "./assets/She-Soul-Tokens.gif";
 import circle from "./assets/Circles.png";
 
 export const HeroSection = styled.div`
