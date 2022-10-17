@@ -160,7 +160,7 @@ function App() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit https://opensea.io/ to view it.`
+          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit https://nuwton.io/ to view it.`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
@@ -387,7 +387,7 @@ function App() {
         </p>
 
         <p>
-        Moonshibs are stored as ERC-721 tokens on the EthereumPow blockchain and hosted on IPFS. Purchasing Moonshibs cost 0.25 wShib.
+        Moonshibs are stored as ERC-721 tokens on the EthereumPow blockchain and hosted on IPFS. Purchasing Moonshibs cost 0.25 ETHW.
         </p>
 
         <p>
