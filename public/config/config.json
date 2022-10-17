@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0xef7f96198fa02864c7533a119561b4acec37b505",
+  "SCAN_LINK": "https://www.oklink.com/en/ethw/token/0xeF7F96198FA02864c7533a119561B4aCeC37B505",
+  "NETWORK": {
+    "NAME": "Ethereum Pow",
+    "SYMBOL": "ETHW",
+    "ID": 10001
+  },
+  "NFT_NAME": "MoonShibs",
+  "SYMBOL": "MoonShibs",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": "25000000000000000000", 
+  "DISPLAY_COST":0.25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Nuwton.io",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
+
+
+
+
+
