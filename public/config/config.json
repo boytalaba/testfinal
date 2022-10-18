@@ -12,8 +12,8 @@
   "WEI_COST": "250000000000000000", 
   "DISPLAY_COST":0.25,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Nuwton.io",
-  "MARKETPLACE_LINK": "",
+  "MARKETPLACE": "Rarity",
+  "MARKETPLACE_LINK": "https://moonshibsrarity.herokuapp.com/",
   "SHOW_BACKGROUND": true
 }
 
